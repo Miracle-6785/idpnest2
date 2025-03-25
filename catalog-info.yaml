@@ -12,7 +12,7 @@ metadata:
     sonarqube.org/project-key: default/idpnest2
     
 
-    dependencytrack/project-id: ""
+    dependencytrack/project-id: "e1a50778-6f1d-445a-8d4b-181984efd8ed"
     iap/app-info: ""
     backstage.io/techdocs-ref: dir:.
 
